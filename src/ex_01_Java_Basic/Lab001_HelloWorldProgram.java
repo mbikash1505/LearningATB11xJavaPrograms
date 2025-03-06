@@ -8,6 +8,10 @@ public class Lab001_HelloWorldProgram {
         System.out.println("Getting Error");
         System.out.println("Getting");
         System.out.println("Getting");
+        System.out.println("Getting Error");
+        System.out.println("Getting Error");
+        System.out.println("Getting");
+        System.out.println("Getting");
 
 
     }
