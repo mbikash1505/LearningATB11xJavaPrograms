@@ -5,7 +5,4 @@ public class Lab001_HelloWorldProgram {
         System.out.println("Welcome Here");
         System.out.println("Getting Error");
         System.out.println("Getting Error");
-        System.out.println("Getting Error");
-        System.out.println("Getting");
-    }
-}
+    }}
