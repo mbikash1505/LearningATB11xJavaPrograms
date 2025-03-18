@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-public class Lab006_Local_Varibales {
+public class Lab006_Local_Variables {
     public static void main(String[] args) {
         int i = 2;
         byte b = 3;
